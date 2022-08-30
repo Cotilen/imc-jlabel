@@ -35,6 +35,7 @@ public class FrameCalculoImc {
 	public Color corLetraCaixa;
 	public Color corFundoBotao;
 	public Font fontedosLabelsResultado;
+	public String teste;
 	
 
 	public void criarTela() {
